@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/USBus.iml" filepath="$PROJECT_DIR$/USBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/businessLogic/businessLogic.iml" filepath="$PROJECT_DIR$/businessLogic/businessLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataAccessLogic/dataAccessLogic.iml" filepath="$PROJECT_DIR$/dataAccessLogic/dataAccessLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ear/ear.iml" filepath="$PROJECT_DIR$/ear/ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+    </modules>
+  </component>
+</project>

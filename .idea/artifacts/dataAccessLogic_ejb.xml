@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="dataAccessLogic:ejb">
+    <output-path>$PROJECT_DIR$/dataAccessLogic/target</output-path>
+    <root id="archive" name="dataAccessLogic-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="dataAccessLogic:ejb exploded" />
+    </root>
+  </artifact>
+</component>

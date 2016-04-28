@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="businessLogic:ejb">
+    <output-path>$PROJECT_DIR$/businessLogic/target</output-path>
+    <root id="archive" name="businessLogic-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="businessLogic:ejb exploded" />
+    </root>
+  </artifact>
+</component>
